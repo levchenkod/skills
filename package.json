@@ -1,0 +1,8 @@
+{
+  "name": "levchenkod-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Agent-agnostic skills by levchenkod",
+  "repository": "github:levchenkod/skills",
+  "license": "MIT"
+}
