@@ -6,7 +6,10 @@ All notable changes to this repo are documented here. Format follows
 ## [Unreleased]
 
 ### Added
+
 - `init-conventions` skill (0.1.0): interviews the user one question at a time about code conventions and writes `docs/conventions/*.md` plus an `AGENT.md` router.
+- `unvibe` skill (0.1.0): plan-only cleanup analysis for prototype-quality code.
+
 
 ## [0.1.0] - 2026-10-11
 
